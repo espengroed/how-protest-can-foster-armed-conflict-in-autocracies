@@ -1,4 +1,4 @@
-# how-protest-can-foster-armed-conflict-in-autocracies
+# README
 
 Authors: Espen Geelmuyden Rød and Nils B. Weidmann
 
